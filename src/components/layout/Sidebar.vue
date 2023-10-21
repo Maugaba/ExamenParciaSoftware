@@ -8,7 +8,7 @@
 								<span>Inicio APP Mau y Nilmar</span>
 							</li>
 							<li>
-                <router-link to="/"><i class="fe fe-users"></i> <span>Usuarios</span></router-link>
+                <router-link to="/"><i class="fe fe-users"></i> <span>Alumnos</span></router-link>
 							</li>
 						</ul>
 					</div>

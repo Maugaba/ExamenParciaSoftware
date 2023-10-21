@@ -3,9 +3,9 @@
 		<div class="header">
 			<!-- Logo -->
 			<div class="header-left">
-				<router-link to="/" class="logo">
-					<img src="@/assets/img/logo.png" alt="Logo">
-				</router-link>
+				<router-link to="/index" class="logo">
+					<img src="@/assets/img/LogoMeso.png" alt="Logo" width="45" height="45">
+			</router-link>
 				<router-link to="/index" class="logo logo-small">
 					<img src="@/assets/img/logo-small.png" alt="Logo" width="30" height="30">
 				</router-link>
